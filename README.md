@@ -1,5 +1,5 @@
 # HSE-bot
-I wrote a bot as homework for university. This bot creates a truth or dare game based on a given topic. It also supports the following commands:
+I wrote a bot as homework for university. I used the Groq API model to generate tasks in a telegram bot. This bot creates a truth or dare game based on a given topic. It also supports the following commands:
 
 /start - Start the game and select a theme.
 
