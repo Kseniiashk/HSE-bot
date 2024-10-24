@@ -1,5 +1,6 @@
 # HSE-bot
 I wrote a bot as homework for university. This bot creates a truth or dare game based on a given topic. It also supports the following commands:
+
 /start - Start the game and select a theme.
 
 /i_want_to_have_my_game - Start the game and write your theme
